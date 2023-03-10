@@ -11,6 +11,7 @@ D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Dto\dtoPersona.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Repository\Rhys.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\jwt\JwtProvider.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Repository\iRolRepository.java
+D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Repository\RProyecto.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Service\Shys.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Entity\hys.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Dto\NuevoUsuario.java
@@ -29,10 +30,14 @@ D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Dto\LoginU
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Entity\Usuario.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Repository\RExperiencia.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Entity\UsuarioPrincipal.java
+D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Controller\CProyecto.java
+D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Dto\dtoProyecto.java
+D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Entity\Proyecto.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Controller\AuthController.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Entity\Persona.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Controller\CEducacion.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\MainSecurity.java
+D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Service\SProyecto.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\Entity\Rol.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Repository\IPersonaRepository.java
 D:\Daiana\Prueba Dai\PruebaBack\src\main\java\com\prueba\dai\Security\jwt\JwtTokenFilter.java

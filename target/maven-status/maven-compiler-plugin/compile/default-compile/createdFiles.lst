@@ -18,10 +18,13 @@ com\prueba\dai\Repository\REducacion.class
 com\prueba\dai\Security\Dto\LoginUsuario.class
 com\prueba\dai\Repository\Rhys.class
 com\prueba\dai\Security\Repository\iUsuarioRepository.class
+com\prueba\dai\Controller\CProyecto.class
 com\prueba\dai\Repository\RExperiencia.class
 com\prueba\dai\Security\jwt\JwtEntryPoint.class
+com\prueba\dai\Dto\dtoProyecto.class
 com\prueba\dai\Security\jwt\JwtProvider.class
 com\prueba\dai\Security\Service\RolService.class
+com\prueba\dai\Entity\Proyecto.class
 com\prueba\dai\Entity\Experiencia.class
 com\prueba\dai\Security\Repository\iRolRepository.class
 com\prueba\dai\Service\ImpPersonaService.class
@@ -34,6 +37,8 @@ com\prueba\dai\DaiApplication.class
 com\prueba\dai\Security\Dto\NuevoUsuario.class
 com\prueba\dai\Security\Controller\AuthController.class
 com\prueba\dai\Security\Enums\RolNombre.class
+com\prueba\dai\Service\SProyecto.class
 com\prueba\dai\Controller\CEducacion.class
+com\prueba\dai\Repository\RProyecto.class
 com\prueba\dai\Dto\dtoEducacion.class
 com\prueba\dai\Entity\Educacion.class
