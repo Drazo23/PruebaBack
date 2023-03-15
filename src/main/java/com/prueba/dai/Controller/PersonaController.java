@@ -39,7 +39,7 @@ public class PersonaController {
         Persona persona = personaService.getOne(id).get();
         return new ResponseEntity(persona, HttpStatus.OK);
     }
-    @PostMapping("/create")
+    /*@PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoPersona persona){
         if(StringUtils.isBlank(persona.getNombre()))
             return new ResponseEntity(new Mensaje("El nombre es obligatorio"), HttpStatus.BAD_REQUEST);
@@ -49,7 +49,7 @@ public class PersonaController {
         personaService.save(nuevaPersona);
         
         return new ResponseEntity(new Mensaje("Persona creada"), HttpStatus.OK);
-    }
+    }*/
     
      @PutMapping("/update/{id}")
     public ResponseEntity<?> update(@PathVariable("id") int id, @RequestBody dtoPersona dtopersona) {
